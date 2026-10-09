@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "component": "Media Companion",
+  "version": "0.3.8",
+  "channel": "windows-x64-portable-preview",
+  "sourceCommit": "46744ab958d41c1f5da382d65b20474158a1f777",
+  "ownCodeLicense": "AGPL-3.0-only",
+  "ffmpegLicense": "GPL-3.0-or-later",
+  "sourceArchive": {
+    "filename": "media-companion-0.3.8-corresponding-source-46744ab958d4.zip",
+    "bytes": 99979271,
+    "sha256": "677c59189670099e290a2c64d1ab07e00d7e976b38ebd13ab91e2ab7d61e0849",
+    "url": "https://github.com/SamSeekmall/seekmall-releases/raw/refs/heads/main/packages/media-companion/0.3.8-preview/media-companion-0.3.8-corresponding-source-46744ab958d4.zip"
+  },
+  "windowsNativeAccepted": false,
+  "hardwareAccepted": false,
+  "playerWebsitePublicationGate": "UNCHANGED: HTTP429/full-source-SHA gate remains",
+  "runtimeArchive": {
+    "filename": "media-companion-0.3.8-windows-x64-preview-46744ab958d4.zip",
+    "bytes": 69803632,
+    "sha256": "01d691167fb275e6dbcaeecb5c08a998e212684e26d8269eb879ac363af0620b",
+    "url": "https://github.com/SamSeekmall/seekmall-releases/raw/refs/heads/main/packages/media-companion/0.3.8-preview/media-companion-0.3.8-windows-x64-preview-46744ab958d4.zip"
+  },
+  "oneClickEntrypoints": [
+    "start-companion.cmd",
+    "stop-companion.cmd",
+    "companion-status.cmd"
+  ],
+  "startMode": "foreground, keep console open; uses bundled Node and existing lifecycle ownership checks",
+  "lineEndings": "source LF; runtime CMD deterministic CRLF",
+  "validation": "160 Player tests; 13 Linux Node isolated launcher checks; nine package-input gate cases; ZIP CRC, exact inventories, all file hashes and sources verified; real Windows/extension/GPU not accepted"
+}
