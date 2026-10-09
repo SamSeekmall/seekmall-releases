@@ -1,0 +1,9 @@
+# Media Toolkit 0.2.9 — AGPL-3.0-only distribution
+
+Real compiled desktop Chrome MV3 unpacked extension: 9 runtime files plus complete component source/build scripts/lockfile and the full AGPL-3.0-only license. Extract, open chrome://extensions, enable Developer mode, Load unpacked and choose Media-Toolkit-0.2.9/dist. This is not a signed store or mobile-browser extension. Source identity is 2fab60ca4fe940c8db3a7346a51cb2ba9abf77f2; size131116 bytes, SHA256 d5450435e993763ab9ceb08f0c1c254bf6417b30cce480906c90800faf687bfc. Per-file hashes and full source are inside the ZIP.
+
+Sam explicitly selected AGPL-3.0 for subsequent own-code copies after the prior MIT grant; metadata uses AGPL-3.0-only (version3 only). Previous MIT grants, including the historical package in ../0.2.9, are not revoked. This is a distinct license/source-commit variant, not a new runtime feature version. All nine compiled runtime files are byte-identical to the original0.2.9 package; key/ID/permissions/loopback boundary unchanged.
+
+AGPL permits commercial use subject to its conditions; distribution must supply required corresponding source, and modified versions with remote users must offer source as section13 requires. Complete own-component source is provided here; no third-party runtime dependency or FFmpeg is bundled. Build-only TypeScript5.9.2 is Apache-2.0 and is not distributed. Player root GPL and third-party licenses are independent.
+
+ZIP CRC and all37 entries/metadata/license verified; old MIT reproduction retains its exact hash. Local execution Chromium sideload previously returned ERR_BLOCKED_BY_CLIENT; no installation, real pairing or torrent/media-transfer acceptance is claimed. Companion is required for its optional local features and is not started by the extension. Its complete Windows installer is still blocked by absent FFmpeg/ffprobe vendor and corresponding source/license assets. No private media/accounts/credentials included.

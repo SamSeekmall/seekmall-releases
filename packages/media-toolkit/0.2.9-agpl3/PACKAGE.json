@@ -1,0 +1,10 @@
+{
+  "file": "media-toolkit-0.2.9-chrome-unpacked-agpl3-2fab60ca4fe9.zip",
+  "bytes": 131116,
+  "sha256": "d5450435e993763ab9ceb08f0c1c254bf6417b30cce480906c90800faf687bfc",
+  "files": 37,
+  "runtimeFiles": 9,
+  "sourceCommit": "2fab60ca4fe940c8db3a7346a51cb2ba9abf77f2",
+  "license": "AGPL-3.0-only",
+  "zipVerification": "PASS"
+}
