@@ -1,0 +1,10 @@
+{
+  "file": "media-toolkit-0.2.9-chrome-unpacked-bcc17440a787.zip",
+  "bytes": 109743,
+  "sha256": "3adc37601465d78d432859c4750daf8e61e1426f5c3c1419f9009f65e9ec9a13",
+  "files": 37,
+  "runtimeFiles": 9,
+  "sourceCommit": "bcc17440a7875592925bd1c8f8edcb9ee0e9ab31",
+  "license": "MIT",
+  "zipVerification": "PASS"
+}
