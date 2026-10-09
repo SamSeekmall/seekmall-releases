@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "component": "Media Companion",
+  "version": "0.3.8",
+  "channel": "windows-x64-portable-preview",
+  "sourceCommit": "9f8fcbfabe5ec6e560cbcea4a89bc38a69780051",
+  "ownCodeLicense": "AGPL-3.0-only",
+  "ffmpegLicense": "GPL-3.0-or-later",
+  "sourceArchive": {
+    "filename": "media-companion-0.3.8-corresponding-source-9f8fcbfabe5e.zip",
+    "bytes": 99686578,
+    "sha256": "52c1196285149b5d8482f53d847e19ddf757e5ea9dfae6fbe7ea7cc2a0d70123",
+    "url": "https://github.com/SamSeekmall/seekmall-releases/raw/refs/heads/main/packages/media-companion/0.3.8-preview/media-companion-0.3.8-corresponding-source-9f8fcbfabe5e.zip"
+  },
+  "windowsNativeAccepted": false,
+  "hardwareAccepted": false,
+  "playerWebsitePublicationGate": "UNCHANGED: HTTP429/full-source-SHA gate remains",
+  "runtimeArchive": {
+    "filename": "media-companion-0.3.8-windows-x64-preview-9f8fcbfabe5e.zip",
+    "bytes": 69800660,
+    "sha256": "0f2f8a97bfcb3bf4632d438136f22b3de565002d9d859a4e5fe6592ff697c113",
+    "url": "https://github.com/SamSeekmall/seekmall-releases/raw/refs/heads/main/packages/media-companion/0.3.8-preview/media-companion-0.3.8-windows-x64-preview-9f8fcbfabe5e.zip"
+  }
+}
