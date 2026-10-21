@@ -1,0 +1,21 @@
+{
+  "name": "SM Clean View (SM 净览)",
+  "version": "0.4.7",
+  "extensionVersion": "2026.1020.1",
+  "engineVersion": "2026.1012.1545 (uBO Lite)",
+  "channel": "local-trial",
+  "file": "sm-clean-view-0.4.7-chrome-unpacked.zip",
+  "bytes": 9251107,
+  "sha256": "b62de5cd05093f733fe307b52fdedc5db01b997ec9e300d576c556ec5ebaae79",
+  "files": 963,
+  "correspondingSource": {
+    "file": "sm-clean-view-0.4.7-corresponding-source-d632c6f.zip",
+    "bytes": 19722685,
+    "sha256": "3b1d72c2b4e61b7e08c40c77360a2d5084a32bba5cd0e47ae7f50ac33d2a0c9d",
+    "sourceCommit": "d632c6f",
+    "repository": "SamSeekmall/sm-ad-filter"
+  },
+  "license": "GPL-3.0-or-later",
+  "zipVerification": "PASS",
+  "minimumChrome": "122.0"
+}
